@@ -1,0 +1,22 @@
+{
+  "name": "my_lauch_app",
+  "version": "1.0.0",
+  "description": "Práctica3 semana 2 Misión NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidMerino25/my_lauch_app.git"
+  },
+  "author": "David Merino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidMerino25/my_lauch_app/issues"
+  },
+  "homepage": "https://github.com/DavidMerino25/my_lauch_app#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
